@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707810692645,
+      "tag": "0000_wide_black_knight",
+      "breakpoints": true
+    }
+  ]
+}
